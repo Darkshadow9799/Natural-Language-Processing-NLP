@@ -13,7 +13,7 @@ Steps to perform Word2Vec:
 =>Tokenization of sentences.
 =>Create Histograms.
 =>Take most frequent words.
-=>Create a matrix with all the unque words. It also represent the occurence of relation between the words.
+=>Create a matrix with all the unique words. It also represent the occurence of relation between the words.
 
 >Install gensim library for Word2Vec:
   Command: pip install gensim
