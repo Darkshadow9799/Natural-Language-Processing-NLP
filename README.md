@@ -4,7 +4,7 @@
 * Tokenizaton
 * Stemming
 * Lemmatization
-* Word Of Bag
+* Bag of Word
 * TF-IDF
 
 ## NLPCH_V2 consists of following topics:
